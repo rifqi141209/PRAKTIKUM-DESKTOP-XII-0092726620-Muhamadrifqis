@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|d:\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|d:\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|d:\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\praktikum1-desktop-xii-0092726620-muhamadrifqis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DDAE9-1FC5-4878-89C5-267A4F349050}|PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis.csproj|solutionrelative:praktikum1-desktop-xii-0092726620-muhamadrifqis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T06:21:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwCgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T06:06:41.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs [Design]",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:23:16.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs [Design]",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:31:33.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormRegister.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:40:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:32:30.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\Program.cs",
+              "RelativeDocumentMoniker": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\Program.cs",
+              "ToolTip": "D:\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\Program.cs",
+              "RelativeToolTip": "PRAKTIKUM1-DESKTOP-XII-0092726620-Muhamadrifqis\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:32:45.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
